@@ -1,0 +1,10 @@
+ Job Name                         :  2AlP-Li_5C
+ type of calculation              :  geometry optimization
+ plane wave basis set cut-off     :  450.0000   eV
+ using functional                 :  Perdew Burke Ernzerhof
+
+ Number of iterations             :  4
+ Energy                           :  -1.25239296E+004  eV
+ Convergence                      :  4.657345E-006  eV/atom
+ Max. Displacement                :  1.061602E-003  A
+ Max. Force                       :  3.447241E-002  eV/A
